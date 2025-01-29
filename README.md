@@ -27,8 +27,7 @@ A modern hotel booking and management system built with PHP, featuring a respons
   Your browser does not support the video tag.
 </video>
 
-[Watch Hotel Discovery Video](https://youtu.be/6JSya1FI900)
+[Watch Hotel Discovery Video](https://asmamaw-abeba.github.io/video-hosting/)
 
-[![Watch Hotel Discovery Video](https://youtu.be/6JSya1FI900)
-
+[![Watch Hotel Discovery Video](https://asmamaw-abeba.github.io/video-hosting/)
 
