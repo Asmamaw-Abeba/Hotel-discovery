@@ -23,13 +23,7 @@ A modern hotel booking and management system built with PHP, featuring a respons
 - [@Asmamaw-Abeba](https://github.com/Asmamaw-Abeba)
 
 ## Video Demo 
-<video src="https://asmamaw-abeba.github.io/video-hosting/" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[![Watch Hotel Discovery Video](https://github.com/Asmamaw-Abeba/Hotel-discovery/blob/main/thuminal.png)](https://asmamaw-abeba.github.io/video-hosting/)
 
-[Watch Hotel Discovery Video](https://asmamaw-abeba.github.io/video-hosting/)
-
-[![Watch Hotel Discovery Video](https://asmamaw-abeba.github.io/video-hosting/)
-[![Watch Hotel Discovery Video](https://github.com/Asmamaw-Abeba/Hotel-discovery/blob/main/thuminal.png)(https://asmamaw-abeba.github.io/video-hosting/)
 
 
