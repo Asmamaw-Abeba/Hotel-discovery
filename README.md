@@ -30,4 +30,6 @@ A modern hotel booking and management system built with PHP, featuring a respons
 [Watch Hotel Discovery Video](https://asmamaw-abeba.github.io/video-hosting/)
 
 [![Watch Hotel Discovery Video](https://asmamaw-abeba.github.io/video-hosting/)
+[![Watch Hotel Discovery Video](thumbnail-image-url)](https://asmamaw-abeba.github.io/video-hosting/)
+
 
